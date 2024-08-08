@@ -1,3 +1,2 @@
-# Hello-world-project
-new repo
-print("Hello World")
+# Hello-world-projec
+print("Hello shravani")
